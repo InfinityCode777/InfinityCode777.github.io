@@ -1,7 +1,9 @@
 {
-  "webcredentials": {
-    "apps": [
-      "RKGM2W93YG.com.figur8tech.figur8app.release"
-    ]
-  }
+    "webcredentials": {
+        "apps": [
+            "4F7SW76LL6.com.di.AutoPassword-iOS12",
+            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
+            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
+        ]
+    }
 }
