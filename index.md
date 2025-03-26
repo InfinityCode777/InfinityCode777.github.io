@@ -4,8 +4,8 @@
 
 ### Personal Projects 
 
-[Resume](/pdf/JingWangResumeGeneric2025v1.1.pdf)
-<img src="images/thumnail_resume.png?raw=true"/>
+<!-- [Resume](/pdf/JingWangResumeGeneric2025v1.1.pdf)
+<img src="images/thumnail_resume.png?raw=true"/> -->
 
 ---
 [Wheel Decide App](/pdf/sample_presentation.pdf)
