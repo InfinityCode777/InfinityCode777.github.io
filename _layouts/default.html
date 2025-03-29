@@ -20,7 +20,7 @@
    <![endif]-->
    <style>
       p.small {
-         line-height: 1.2;
+         line-height: 1.0;
       }
    </style>
    </head>
@@ -39,6 +39,7 @@
          <p class="small"><a href="{{ site.github.owner_url }}">GitHub</a></p>
          {% endif %}
          <p class="small"><a href="pdf/JingWangResumeGeneric2025v1.1.pdf">Resume<br></a></p>
+         <p class="small"><a href="{{ site.linkedIn }}">Resume<br></a></p>
          
          {% if site.show_downloads %}
          <ul class="downloads">
@@ -48,16 +49,15 @@
          </ul>
          {% endif %}
       </header>
-      <!-- <br /><br /> -->
       <section>
          {{ content }}
       </section>
-      <footer>
+      <!-- <footer>
          {% if site.github.is_project_page %}
          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
          {% endif %}
          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+      </footer> -->
    </div>
    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>

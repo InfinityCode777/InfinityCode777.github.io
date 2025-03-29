@@ -3,11 +3,7 @@ logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Self-motivated software engineer with 8-year experience in iOS development in Swift. I am passionate about the bringing productivity and fun to people with latest technology and well designed UI/UX. Expertise in BLE based wearable devices. Familiar with testing and app deployment. 
   <br><br>
-
-  More Info 
-  <br><br>
-  <a href="https://www.linkedin.com/in/jing-wang-890b2537/">LinkedIn</a> 
-  
+linkedIn: <a href="https://www.linkedin.com/in/jing-wang-890b2537/">LinkedIn</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
