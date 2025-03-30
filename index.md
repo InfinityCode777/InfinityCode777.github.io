@@ -3,12 +3,12 @@
 
 
 <!-- [Resume](/pdf/JingWangResumeGeneric2025v2.2.pdf)
-<img src="images/thumnail_resume.png?raw=true"/> -->
+<img src="images/thumbnail_resume.png?raw=true"/> -->
 ### Resume
 
 ---
 
-<a href="/pdf/JingWangResumeGeneric2025v2.2.pdf"><img src="images/thumnail_resume.png?raw=true"/></a>
+<a href="/pdf/JingWangResumeGeneric2025v2.2.pdf"><img src="images/thumbnail-resume.png?raw=true"/></a>
 
 
 ### Personal Projects 
@@ -16,13 +16,13 @@
 ---
 
 [Floatie](/subpage/floatie.md)
-<img src="images/thumnail_floatie.png?raw=true"/>
+<img src="images/thumbnail-floatie.png?raw=true"/>
 
 <!-- [Color Streak](/subpage/color-trek.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 [Fortune Wheel (in development)](/subpage/fortune-wheel.md)
-<img src="images/thumnail_foturne_wheel.png?raw=true"/>
+<img src="images/thumbnail-fortune-wheel.png?raw=true"/>
 
 <!-- [An interactive tutorial framework for iOS app](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
