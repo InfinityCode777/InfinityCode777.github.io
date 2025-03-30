@@ -10,7 +10,6 @@
 
 <a href="/pdf/JingWangResumeGeneric2025v2.2.pdf"><img src="images/thumnail_resume.png?raw=true"/></a>
 
----
 
 ### Personal Projects 
 
