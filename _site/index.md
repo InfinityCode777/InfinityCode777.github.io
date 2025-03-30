@@ -29,11 +29,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
----
-
 ### Company Projects
 
 ---
+
 - [FIGUR8](https://apps.apple.com/us/app/figur8/id6444166676)
 - [FIGUR8 demo](https://apps.apple.com/us/app/figur8-demo/id1496052737)
 
@@ -41,9 +40,6 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/) -->
-
----
-
 
 
 <!--
