@@ -2,7 +2,7 @@
 <!-- --- -->
 
 
-[Resume](/pdf/JingWangResumeGeneric2025v1.1.pdf)
+[Resume](/pdf/JingWangResumeGeneric2025v2.1.pdf)
 <img src="images/thumnail_resume.png?raw=true"/>
 ---
 
@@ -11,12 +11,15 @@
 ---
 [Fortune Wheel](/subpage/fortune-wheel.md)
 <img src="images/thumnail_foturne_wheel.png?raw=true"/>
+
 ---
 [Floatie](/subpage/floatie.md)
 <img src="images/thumnail_floatie.png?raw=true"/>
+
 ---
 [An interactive tutorial framework for iOS app](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 
 ### Company Projects
