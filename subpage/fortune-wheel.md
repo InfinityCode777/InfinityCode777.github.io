@@ -1,0 +1,2 @@
+## Fortune Wheel
+A productivity app that helps users to make decision when it is difficult (e.g. dinner plans, places to go, clothes to wear etc.). The options are entered by users and visualized on a spinning wheel. Backend will save the result of each pick and a web dashboard can show occurrence and trend of the selection.
